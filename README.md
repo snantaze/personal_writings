@@ -10,7 +10,7 @@
   
   # my opinions and my opinions alone.
   
-  # no permission to republish without my consent.  With consent the license if free.  Without consent the litagation will cost you.  
+  # no permission to republish without my consent.  With consent the license is free.  Without consent the litagation will cost you.  
   
   # civil comments are welcomed
   
