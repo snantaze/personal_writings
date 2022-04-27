@@ -1,12 +1,7 @@
 # personal_writings
 
 topics include:
-  LGBT advocacy
-  local politics
-  civil society (and national / international politics)
-  art
-  food
-  other 
+  LGBT advocacy, political issues,  civil society, art, culture, food and more...
   
   my opinions and my opinions alone.
   
