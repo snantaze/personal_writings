@@ -1,7 +1,11 @@
 # personal_writings
 
 topics include:
-  LGBT advocacy, political issues,  civil society, art, culture, food and more...
+  The Future, Technology and society, LGBT & political issues, citizenship & civil society, art, culture, food and more...
+  
+  Sometimes this will include Futuristic Non-Fiction Short Stories.  
+  
+  
   
   my opinions and my opinions alone.
   
@@ -9,4 +13,4 @@ topics include:
   
   civil comments and public speaking requests are welcomed.  meanspirited comments and commentors may be blocked.  
   
-  # please follow me here on [github](https://github.com/snantaze) or [twitter](https://twitter.com/snantaze) or [linkedIn](https://www.linkedin.com/in/shanenantais/)
+ More here: [twitter](https://twitter.com/snantaze) or [linkedIn](https://www.linkedin.com/in/shanenantais/)
